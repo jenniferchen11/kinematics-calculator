@@ -1,0 +1,76 @@
+.App {
+  text-align: left;
+  overflow: 'hidden';
+  min-height: 900px;
+  background: #F0FFFF;
+}
+
+.App-header {
+  font-size: 50px;
+  text-align: center;
+  font-family: "Verdana", Geneva, sans-serif;
+  color: grey;
+  padding: 10px;
+}
+
+.App-description{
+  color: #20B2AA;
+  font-style: italic;
+  text-align: center;
+  font-size: 20px;
+  font-family: "Verdana", Geneva, sans-serif;
+  padding: 10px;
+}
+
+.Reset-button{
+  color: gray;
+  font-size: 15px;
+  font-family: "Verdana", Geneva, sans-serif;
+  padding: 5px;
+  margin: 2px;
+}
+
+
+.Variable-fields{
+  color: gray;
+  font-size: 15px;
+  font-family: "Verdana", Geneva, sans-serif;
+  padding: 10px;
+}
+
+.Solutions-header{
+  color: #20B2AA;
+  font-size: 15px;
+  font-family: "Verdana", Geneva, sans-serif;
+  padding: 10px;
+}
+
+.Answers{
+  color: #20B2AA;
+  font-size: 15px;
+  font-family: "Verdana", Geneva, sans-serif;
+  padding: 10px;
+}
+
+.Reference-equations{
+  color: gray;
+  font-size: 15px;
+  font-family: "Verdana", Geneva, sans-serif;
+  padding: 10px;
+}
+
+.Github-link{
+  color: #20B2AA;
+  font-size: 15px;
+  font-family: "Verdana", Geneva, sans-serif;
+  padding: 10px;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
